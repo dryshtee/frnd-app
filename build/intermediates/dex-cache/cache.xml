@@ -1,1 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
 
+    <item
+        jar="C:\Users\DRSH\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\DRSH\AndroidStudioProjects\FRNDQuizApp\app\build\intermediates\pre-dexed\release\support-annotations-23.3.0_536df366f52c43fdefa12e67943a27b5cebfdbb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\DRSH\AndroidStudioProjects\FRNDQuizApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\DRSH\AndroidStudioProjects\FRNDQuizApp\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.3.0_a106fb9d1f691bad7635d4829167f00098f89f64.jar" />
+    </item>
+    <item
+        jar="C:\Users\DRSH\AndroidStudioProjects\FRNDQuizApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\DRSH\AndroidStudioProjects\FRNDQuizApp\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.3.0_91e54ecad3fcc2956492352450526652da9eae4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\DRSH\AndroidStudioProjects\FRNDQuizApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\DRSH\AndroidStudioProjects\FRNDQuizApp\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.3.0_0f4213db84f3852694ee0dc72605c3790920680b.jar" />
+    </item>
+    <item
+        jar="C:\Users\DRSH\AndroidStudioProjects\FRNDQuizApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\DRSH\AndroidStudioProjects\FRNDQuizApp\app\build\intermediates\pre-dexed\release\internal_impl-23.3.0_958e75e9fd60598ef36063e1455ee9834f7904c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\DRSH\AndroidStudioProjects\FRNDQuizApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\DRSH\AndroidStudioProjects\FRNDQuizApp\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.3.0_54c010c2612be41f4c720143868fa8e64d14857f.jar" />
+    </item>
+
+</items>

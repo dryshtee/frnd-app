@@ -14,9 +14,13 @@
      limitations under the License.
 -->
 
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:state_focused="true" android:drawable="@drawable/abc_btn_default_mtrl_shape"/>
-    <item android:state_pressed="true" android:drawable="@drawable/abc_btn_default_mtrl_shape"/>
-    <item android:drawable="@android:color/transparent"/>
-</selector>
-
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+       android:insetLeft="16dp"
+       android:insetTop="16dp"
+       android:insetRight="16dp"
+       android:insetBottom="16dp">
+    <shape android:shape="rectangle">
+        <corners android:radius="2dp" />
+        <solid android:color="@color/background_floating_material_light" />
+    </shape>
+</inset>
